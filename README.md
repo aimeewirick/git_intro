@@ -1,1 +1,2 @@
-"Aimee Wirick" 
+Aimee Wirick
+wiricka@oregonstate.edu
