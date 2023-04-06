@@ -1,2 +1,1 @@
-"Aimee Wirick" 
-4
+Aimee Wirick
